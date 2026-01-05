@@ -8,7 +8,7 @@ Todo o código foi escrito por mim com o objetivo de consolidar os conceitos apr
 
 ## 🎥 Preview do projeto
 
-https://github.com/Mayumikkato/html-css-exercicios/blob/main/bikcraft-posicionamento/preview-bikcraft.mp4
+![Preview do projeto](./preview-bikcraft.gif)
 
 > Vídeo demonstrando o layout final do projeto Bikcraft – Posicionamento.
 
