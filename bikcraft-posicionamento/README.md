@@ -8,9 +8,13 @@ Todo o código foi escrito por mim com o objetivo de consolidar os conceitos apr
 
 ## 🎥 Preview do projeto
 
-![Preview do projeto](./preview-bikcraft.gif)
+<p align="center">
+  <img src="./preview-bikcraft.gif" alt="Preview do projeto Bikcraft" />
+</p>
 
-> Vídeo demonstrando o layout final do projeto Bikcraft – Posicionamento.
+<p align="center">
+  <em>Vídeo demonstrando o layout final do projeto Bikcraft – Posicionamento.</em>
+</p>
 
 ---
 
