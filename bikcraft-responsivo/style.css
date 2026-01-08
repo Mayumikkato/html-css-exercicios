@@ -1,0 +1,152 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background: #f7f7f7;
+  display: grid;
+  gap: 3.75rem;
+  justify-items: center;
+  margin-top: 3.75rem;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+p,
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+p {
+  font-size: 1.25rem;
+  line-height: 1.3;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: grid;
+  justify-items: center;
+  gap: 3.75rem;
+}
+
+.menu {
+  display: flex;
+  gap: 1.25rem;
+  justify-content: center;
+}
+
+.menu a {
+  background: #fff;
+  padding: 1rem 2rem;
+  border-radius: 0.25rem;
+  color: #000;
+  text-transform: uppercase;
+  display: block;
+  border: 2px solid #fff;
+}
+
+.menu:hover {
+  border-color: #e21;
+}
+
+.conteudo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 62.5rem;
+}
+
+.introducao {
+  background: #fff;
+  padding: 2.5rem;
+  text-align: right;
+  position: relative;
+  display: grid;
+  justify-items: end;
+}
+
+.introducao h1 {
+  font-size: 2rem;
+}
+
+.introducao::before{
+  content: "";
+  width: 3.75rem;
+  height: 0.25rem;
+  background: #e21;
+  position: absolute;
+  top: 1.875rem;
+  right: -1.875rem;
+}
+
+.introducao-cover {
+  object-fit: cover;
+  height: 100%;
+}
+
+.botao {
+  background: #e21;
+  color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 0.25rem;
+  text-transform: uppercase;
+  align-content: center;
+}
+
+.botao:hover {
+  background: #900;
+}
+
+.subtitulo {
+  font-size: 4rem;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.2);
+  text-align: right;
+  padding: 2.5rem;
+  align-self: center;
+  background-image: url("./imagens/onda.svg");
+}
+
+.vantagens {
+  background: #fff;
+  padding: 2.5rem;
+}
+
+.vantagens-item {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.625rem 1.25rem;
+  padding: 1.25rem;
+  border-left: 4px solid transparent;
+}
+
+.vantagens-item:nth-child(odd) {
+  background: #f7f7f7;
+}
+
+.vantagens-item:hover {
+  border-color: #e21;
+}
+
+.vantagens-item p {
+  grid-column: 2;
+}
+
+.rodape {
+  background: #fff;
+  width: 100%;
+  text-align: center;
+  padding: 2.5rem;
+  box-sizing: border-box;
+}
