@@ -65,7 +65,7 @@ Versão do projeto com foco na **refatoração do código**, aplicando melhorias
 - Refatoração de código existente
 - Interações com pseudo-classes
 
-🔗 [Ver pasta do projeto](./bikcraft-refatoração)
+🔗 [Ver pasta do projeto](./bikcraft-refatoração/)
 
 <br>
 
