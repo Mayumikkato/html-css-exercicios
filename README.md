@@ -53,6 +53,8 @@ Exercício focado na criação de um layout de apresentação de produto, com ê
 
 🔗 [Ver pasta do projeto](./bikcraft-posicionamento)
 
+<br>
+
 ### 🚲 Bikcraft – Refatoração
 Versão do projeto com foco na **refatoração do código**, aplicando melhorias na **semântica do HTML**, **organização do CSS**, **acessibilidade básica** e **interações visuais**, mantendo o layout original.
 
@@ -64,6 +66,8 @@ Versão do projeto com foco na **refatoração do código**, aplicando melhorias
 - Interações com pseudo-classes
 
 🔗 [Ver pasta do projeto](./bikcraft-refatoracao)
+
+<br>
 
 ### 🚲 Bikcraft – Responsivo
 Versão final do projeto com foco na **implementação de um layout totalmente responsivo**, utilizando **CSS Grid**, **media queries** e **unidades relativas**, garantindo adaptação para diferentes tamanhos de tela.
