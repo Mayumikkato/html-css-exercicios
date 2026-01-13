@@ -35,8 +35,13 @@ Exercício focado na construção de uma página simples de apresentação de pr
 
 ---
 
+## 🚲 Projeto Bikcraft
+
+Este repositório reúne **três versões do projeto Bikcraft**, desenvolvidas ao longo dos meus estudos em **HTML e CSS**.  
+Cada pasta representa uma **evolução do projeto**, desde o layout inicial até a versão responsiva.
+
 ### 🚲 Bikcraft – Posicionamento
-Exercício focado na criação de um layout de apresentação de produto, com ênfase em posicionamento de elementos, hierarquia visual e organização do conteúdo utilizando HTML e CSS.
+Exercício focado na criação de um layout de apresentação de produto, com ênfase em **posicionamento de elementos**, **hierarquia visual** e **organização do conteúdo** utilizando HTML e CSS.
 
 📌 Conceitos praticados:
 - Posicionamento de elementos no layout
@@ -47,6 +52,30 @@ Exercício focado na criação de um layout de apresentação de produto, com ê
 - Organização visual da página
 
 🔗 [Ver pasta do projeto](./bikcraft-posicionamento)
+
+### 🚲 Bikcraft – Refatoração
+Versão do projeto com foco na **refatoração do código**, aplicando melhorias na **semântica do HTML**, **organização do CSS**, **acessibilidade básica** e **interações visuais**, mantendo o layout original.
+
+📌 Conceitos praticados:
+- HTML semântico
+- Boas práticas de CSS
+- Acessibilidade básica
+- Refatoração de código existente
+- Interações com pseudo-classes
+
+🔗 [Ver pasta do projeto](./bikcraft-refatoracao)
+
+### 🚲 Bikcraft – Responsivo
+Versão final do projeto com foco na **implementação de um layout totalmente responsivo**, utilizando **CSS Grid**, **media queries** e **unidades relativas**, garantindo adaptação para diferentes tamanhos de tela.
+
+📌 Conceitos praticados:
+- Layout responsivo (desktop, tablet e mobile)
+- CSS Grid
+- Media queries
+- Unidades relativas (`rem`, `%`)
+- Organização e escalabilidade do CSS
+
+🔗 [Ver pasta do projeto](./bikcraft-responsivo)
 
 ---
 
@@ -60,4 +89,4 @@ Exercício focado na criação de um layout de apresentação de produto, com ê
 ## 📌 Observações
 Este repositório tem fins **educacionais**, servindo como base para a evolução dos meus estudos em Front-end e para a construção do meu portfólio.
 
-Novos exercícios serão adicionados conforme o avanço dos estudos.
+Novos exercícios serão adicionados conforme o avanço dos estudos e evolução técnica.
