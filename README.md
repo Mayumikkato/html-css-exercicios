@@ -83,6 +83,48 @@ Versão final do projeto com foco na **implementação de um layout totalmente r
 
 ---
 
+### 📝 Formulários HTML – Básico
+Estudo focado nos **fundamentos de formulários HTML**, explorando diferentes tipos de campos, validações nativas e boas práticas de marcação.
+
+📌 **Conceitos praticados:**
+- Estrutura básica de formulários (`form`, `label`, `input`)
+- Tipos de input (`text`, `email`, `password`, `number`, `date`)
+- Checkbox e radio buttons
+- Atributos HTML (`required`, `placeholder`, `name`)
+- Associação correta entre `label` e `input`
+
+🔗 [Ver pasta do estudo](./formulario-basico)
+
+---
+
+### 🎯 Seletores CSS
+Estudo voltado para o uso de **seletores CSS intermediários**, aplicando regras de estilização mais precisas e eficientes.
+
+📌 **Conceitos praticados:**
+- Seletores de atributo (`[required]`, `[href]`)
+- Seletores de prefixo e sufixo (`^=`, `$=`)
+- Combinadores (`>`, `+`)
+- Seletor universal (`*`)
+- Cascata e impacto global dos seletores
+
+🔗 [Ver pasta do estudo](./outros-seletores-css/)
+
+---
+
+### 🧠 Especificidade CSS
+Estudo focado no entendimento de **como o CSS decide qual regra aplicar**, essencial para evitar conflitos e escrever estilos mais previsíveis.
+
+📌 **Conceitos praticados:**
+- Ordem de precedência dos seletores
+- Diferença entre classe, elemento e atributo
+- Impacto da cascata
+- Boas práticas para evitar `!important`
+- Organização de estilos para manter o CSS escalável
+
+🔗 [Ver pasta do estudo](./especificidade-css)
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 - HTML5  
 - CSS3  
