@@ -78,7 +78,7 @@ ul {
   border: 2px solid var(--fundo-2);
 }
 
-.menu:hover {
+.menu a:hover {
   border-color:  var(--cor-primaria);
 }
 
