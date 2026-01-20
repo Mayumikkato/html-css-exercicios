@@ -81,6 +81,20 @@ Versão final do projeto com foco na **implementação de um layout totalmente r
 
 🔗 [Ver pasta do projeto](./bikcraft-responsivo)
 
+<br>
+
+### 🌗 Bikcraft – Modo Claro e Escuro
+Projeto desenvolvido com foco na **implementação de tema claro e escuro automático**, utilizando **CSS Variables** e a media query `prefers-color-scheme`, respeitando as configurações do sistema operacional do usuário.
+
+📌 Conceitos praticados:
+- CSS Variables (`:root`)
+- `prefers-color-scheme` (light / dark)
+- Organização de temas no CSS
+- Reutilização de estilos
+- Manutenção de identidade visual em múltiplos temas
+
+🔗 [Ver pasta do projeto](./bikcraft-modo-claro-escuro)
+
 ---
 
 ### 📝 Formulários HTML – Básico
@@ -122,6 +136,20 @@ Estudo focado no entendimento de **como o CSS decide qual regra aplicar**, essen
 - Organização de estilos para manter o CSS escalável
 
 🔗 [Ver pasta do estudo](./especificidade-css)
+
+---
+
+### 🎨 Propriedades Customizadas CSS
+Estudo focado no uso de **variáveis CSS** para tornar o código mais **flexível, reutilizável e fácil de manter**, aplicando boas práticas de organização de estilos.
+
+📌 **Conceitos praticados:**
+- Declaração de variáveis com `:root`
+- Uso de `var()` para reaproveitamento de valores
+- Centralização de cores e espaçamentos
+- Facilitação da manutenção do CSS
+- Base para temas (claro / escuro)
+
+🔗 [Ver pasta do estudo](./propriedades-customizadas-css)
 
 ---
 
