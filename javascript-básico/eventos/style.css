@@ -1,0 +1,26 @@
+body {
+  height: 2000px;
+}
+
+.texto {
+  display: none;
+}
+
+.texto.ativar {
+  display: block;
+}
+
+/* Estilo: EXERCÍCIO */
+html {
+  cursor: none;
+}
+
+#circulo {
+  width: 16px;
+  height: 16px;
+  background: #999;
+  border-radius: 50%;
+  position: absolute;
+}
+
+
